@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#Name{
+    display: block;
+}
+#Email{
+    display: block;
+}
+#Mobile{
+    display: block;
+}
+#submit{
+    width: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+form{
+    width: 40%;
+    background-color:rgb(255, 174, 0);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+label{
+    margin-left: 5%;
+    font-size: 15px;
+    font-weight: 600;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+input{
+    width: 90%;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+
+/************ table ***************/
+table{
+    width: 100%;
+}
+th{
+    background-color: rgb(255, 174, 0);
+    height: 40px;
+    border: none;
+    outline: none;
+    margin-right: 0px;
+}
+/* .sNo{
+    width: 10%;
+}
+.email{
+    width: 30%;
+} */
+
+
+#tbody{
+    width: 100%;
+    text-align: center;
+}
+.td1{
+    text-align: center;
+    border: 4px solid red;
+}
